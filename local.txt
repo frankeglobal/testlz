@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"android_version":"401","android_url":"http://app.jinhealthcare.org/lianzhong/lz_401a.apk","other":",0,aHR0cDovLzE5Mi4xNjguMS4xNzI=","thirdLoginEnable":"0"}]}}
